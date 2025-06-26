@@ -1,2 +1,2 @@
 # samrat-space
-This is a amazon website clone project using HTML & CSS
+This is a normal data stored page using HTML, CSS, AND PHP
