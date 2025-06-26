@@ -1,2 +1,2 @@
 # samrat-space
-This is a normal data stoed page create using HTML & CSS
+This is a Amazon cloned Website using HTML & CSS
